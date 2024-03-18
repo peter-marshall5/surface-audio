@@ -7,7 +7,7 @@
         "type": "builtin",
         "label": "convolver",
         "config": {
-          "filename": "/etc/surface-audio/impulse.wav"
+          "filename": "/etc/wireplumber/surface-audio/impulse.wav"
         }
       }
     ]
